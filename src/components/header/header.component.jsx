@@ -29,7 +29,7 @@ const Header = ({currentUser,hidden}) =>(
       }
      
 
-    </div>
+     </div>
 );
 
 const mapStateToProps  = ({user:{currentUser},cart:{ hidden}})=>({
